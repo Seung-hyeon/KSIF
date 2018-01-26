@@ -1,4 +1,4 @@
-# KSIF
+# KSIF (KAIST Student Investment Fund)
 Universal finance-application package.
 
 This package is based on [ffn](http://pmorissette.github.io/ffn/) and [bt](https://github.com/pmorissette/bt).
